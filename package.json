@@ -59,7 +59,8 @@
     "deepdash": "^5.3.5",
     "lodash": "^4.17.20",
     "shortid": "^2.2.16",
-    "speakingurl": "^14.0.1"
+    "speakingurl": "^14.0.1",
+    "transliteration": "^2.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
